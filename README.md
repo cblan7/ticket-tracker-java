@@ -28,4 +28,8 @@ A console-based Java application that simulates a helpdesk ticketing system, all
 - Implementing search and control flow logic
 - Improving user experience through clean UI formatting
 
-<img width="277" height="754" alt="image" src="https://github.com/user-attachments/assets/23667e96-37e7-4c01-bb0c-238c2ebfd617" />
+<p align = "center">
+   <img width="277" height="754" alt="image" src="https://github.com/user-attachments/assets/23667e96-37e7-4c01-bb0c-238c2ebfd617" />
+   <img width="226" height="457" alt="image" src="https://github.com/user-attachments/assets/63f337d8-2b6b-4090-9f48-19483be4385f" />
+
+
