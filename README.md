@@ -1,2 +1,32 @@
 # ticket-tracker-java
-Quick tracker for creating, viewing, and searching tickets.
+
+# Helpdesk Ticket Tracker (Java)
+
+## Overview
+A console-based Java application that simulates a helpdesk ticketing system. Users can create, view, search, and resolve support tickets.
+
+## Features
+- Add new tickets with user name, issue type, and priority
+- View all tickets
+- Resolve tickets by ID
+- Search tickets by ID or user name
+- Clean terminal UI for readability
+
+## Technologies Used
+- Java
+- Object-Oriented Programming (OOP)
+- ArrayList for data storage
+- Scanner for user input
+
+## How to Run
+1. Compile:
+   javac Ticket.java TicketTracker.java
+
+2. Run:
+   java TicketTracker
+
+## What I Learned
+- Designing classes and constructors
+- Managing collections using ArrayList
+- Implementing search and control flow logic
+- Improving user experience through clean UI formatting
