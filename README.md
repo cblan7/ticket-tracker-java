@@ -1,7 +1,7 @@
 # Helpdesk Ticket Tracker (Java)
 
 ## Overview
-A console-based Java application that simulates a helpdesk ticketing system. Users can create, view, search, and resolve support tickets.
+A console-based Java application that simulates a helpdesk ticketing system, allowing users to create, manage, search, and resolve support tickets.
 
 ## Features
 - Add new tickets with user name, issue type, and priority
