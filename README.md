@@ -1,5 +1,3 @@
-# ticket-tracker-java
-
 # Helpdesk Ticket Tracker (Java)
 
 ## Overview
