@@ -28,3 +28,5 @@ A console-based Java application that simulates a helpdesk ticketing system, all
 - Managing collections using ArrayList
 - Implementing search and control flow logic
 - Improving user experience through clean UI formatting
+
+<img width="277" height="754" alt="image" src="https://github.com/user-attachments/assets/23667e96-37e7-4c01-bb0c-238c2ebfd617" />
