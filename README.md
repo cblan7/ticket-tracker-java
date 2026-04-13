@@ -19,11 +19,10 @@ A console-based Java application that simulates a helpdesk ticketing system, all
 ## How to Run
 1. Compile:
    javac Ticket.java TicketTracker.java
-
 2. Run:
    java TicketTracker
 
-## What I Learned
+## Key Concepts Demonstrated
 - Designing classes and constructors
 - Managing collections using ArrayList
 - Implementing search and control flow logic
