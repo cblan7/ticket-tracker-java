@@ -29,6 +29,6 @@ A console-based Java application that simulates a helpdesk ticketing system, all
 - Improving user experience through clean UI formatting
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/510202e9-1b91-43c4-a45d-4d11307186ae" width = "60%" />
+  <img src="https://github.com/user-attachments/assets/510202e9-1b91-43c4-a45d-4d11307186ae" width = "50%" />
   <img src="https://github.com/user-attachments/assets/23667e96-37e7-4c01-bb0c-238c2ebfd617" width="40%" />
 </p>
